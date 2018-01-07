@@ -1,8 +1,7 @@
 # faucethub 中繼錢包
 <img alt="" border="0" height="84" src="https://3.bp.blogspot.com/-kBBcWokDDpY/WW8vHMLxN2I/AAAAAAAADoI/N7HZQbn_YvYiqDi9IA8936Z5yDfNAGWDwCKgBGAs/s320/faucethubio.jpg" title="" width="214"></a></p>
 
-<div class="article-content-inner" id="article-content-inner">
-            <p><span style="font-size:20px"><span style="color:rgb(81, 7, 1)"><strong>FaucetHub &nbsp; </strong></span><strong><a href="http://faucethub.io/r/7022972" target="_blank"><span style="color:#510701">http://faucethub.io/r/7022972</span></a></strong></span></p>
+            <p><span style="font-size:20px"><span style="color:rgb(81, 7, 1)"><strong>FaucetHub &nbsp; </strong></span><strong><a href="http://faucethub.io/r/30498731" target="_blank"><span style="color:#510701">http://faucethub.io/r/30498731</span></a></strong></span></p>
 
 <p><img alt="FaucetHub1.jpg" src="https://pic.pimg.tw/astridastrid885/1505739993-3112710562_l.jpg" title="FaucetHub1.jpg" original="https://pic.pimg.tw/astridastrid885/1505739993-3112710562_l.jpg"></p>
 
@@ -57,8 +56,4 @@
 
 <p><span style="color:#510701"><strong><span style="font-size:20px">▲更多 → 費用 →用戶撤回(收回) → 提歀費，也就是</span></strong></span><span style="color:#510701"><strong><span style="font-size:20px"><span style="color:#510701"><strong><span style="font-size:20px">撤回(收回)</span></strong></span></span></strong></span><span style="color:#510701"><strong><span style="font-size:20px">的同時會直接扣點比特幣當</span></strong></span><span style="color:#510701"><strong><span style="font-size:20px"><span style="color:#510701"><strong><span style="font-size:20px">提歀費</span></strong></span>。</span></strong></span></p>
 
-                        
-                        
-
-                              </div>
 來源:http://astridastrid885.pixnet.net/blog/post/329354971-faucethub%E8%A8%BB%E5%86%8A%E4%BD%BF%E7%94%A8%E8%A7%A3%E8%AA%AA%E5%9C%96
