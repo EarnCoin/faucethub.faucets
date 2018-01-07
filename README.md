@@ -1,4 +1,6 @@
 # faucethub 中繼錢包
+
+<div class="article-content-inner" id="article-content-inner">
 <img alt="" border="0" height="84" src="https://3.bp.blogspot.com/-kBBcWokDDpY/WW8vHMLxN2I/AAAAAAAADoI/N7HZQbn_YvYiqDi9IA8936Z5yDfNAGWDwCKgBGAs/s320/faucethubio.jpg" title="" width="214"></a></p>
 
             <p><span style="font-size:20px"><span style="color:rgb(81, 7, 1)"><strong>FaucetHub &nbsp; </strong></span><strong><a href="http://faucethub.io/r/30498731" target="_blank"><span style="color:#510701">http://faucethub.io/r/30498731</span></a></strong></span></p>
